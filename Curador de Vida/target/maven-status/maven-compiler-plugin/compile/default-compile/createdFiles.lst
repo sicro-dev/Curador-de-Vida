@@ -1,0 +1,3 @@
+br\com\sicro\firstplugin\commands\FirstCommand.class
+br\com\sicro\firstplugin\listeners\SicroListener.class
+br\com\sicro\firstplugin\Main.class

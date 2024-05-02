@@ -1,0 +1,5 @@
+name: Sicroplugin
+version: '1.0.0'
+main: br.com.sicro.firstplugin.Main
+commands:
+  curar:

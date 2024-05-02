@@ -1,0 +1,5 @@
+name: Sicroplugin
+version: '${project.version}'
+main: br.com.sicro.firstplugin.Main
+commands:
+  curar:
